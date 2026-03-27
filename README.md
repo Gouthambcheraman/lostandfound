@@ -127,8 +127,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- Goutham Baskaran
-- Contributors welcome!
+- Goutham B Cheraman
+- E V Jishnu
+- Ameen Khan
+- Anavadya Rajesh
 
 ## 📧 Support
 
